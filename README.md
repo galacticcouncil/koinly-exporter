@@ -9,3 +9,7 @@ python3 koinly-exporter.py hydration $YOUR_SUBSCAN_API_KEY $YOUR_ADDRESS output.
 
 ## Attribution
 Main contribution: Erik Lonroth <erik@dwellir.com> - Dwellir AB - 2025
+
+## Disclaimer
+
+This script is provided "as is" without any warranties, guarantees, or conditions of any kind. Use it at your own risk. 
